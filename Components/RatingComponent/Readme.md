@@ -20,9 +20,7 @@ A simple, reusable, and customizable **Rating Component** built for Power Apps C
 
 ## 📸 Demo
 
-| Light Theme | Dark Theme |
-|-------------|------------|
-| ![Light Theme](./assets/rating-light.png) | ![Dark Theme](./assets/rating-dark.png) |
+![image 142](https://github.com/user-attachments/assets/3d8580ff-349c-457b-ae73-e7f5886d95da)
 
 ---
 

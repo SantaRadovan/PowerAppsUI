@@ -2,7 +2,7 @@
 
 ![Power Apps](https://img.shields.io/badge/built%20with-Power%20Apps-purple?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-[![License](https://img.shields.io/github/license/SantaRadovan/PowerAppsUI?style=flat-square)](../LICENSE)
+[![License](https://img.shields.io/github/license/SantaRadovan/PowerAppsUI?style=flat-square)](../../LICENSE)
 
 A simple, reusable, and customizable **Rating Component** built for Power Apps Canvas Apps. Easily add star-based rating functionality to your apps with full support for dynamic input/output and theming.
 

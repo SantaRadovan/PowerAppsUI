@@ -11,7 +11,7 @@ A simple, reusable, and customizable **Rating Component** built for Power Apps C
 ## ✨ Features
 
 - ⭐ Star-based rating (1 to 5 or custom range)
-- 🎨 Fully customizable (star color, size, max stars)
+- 🎨 Fully customizable (star color, max stars)
 - 🔄 Two-way binding (user input + read-only modes)
 - 🔧 Lightweight and easy to integrate
 - 📱 Mobile and desktop responsive
@@ -28,7 +28,7 @@ A simple, reusable, and customizable **Rating Component** built for Power Apps C
 
 ### 1. Download the Component
 
-Download the latest `.msapp` or `.msapp component` file from the [Releases](https://github.com/yourusername/powerapps-rating-component/releases) section.
+Download the latest `.msapp` file from the [Releases](https://github.com/yourusername/powerapps-rating-component/releases) section.
 
 ### 2. Import to Power Apps
 
@@ -50,7 +50,6 @@ Download the latest `.msapp` or `.msapp component` file from the [Releases](http
 | `RatingValue` | Number | The current rating (output or input) |
 | `MaxStars` | Number | Max number of stars (default: 5) |
 | `StarColor` | Color | Color of the filled stars |
-| `StarSize` | Number | Size of each star |
 | `IsReadOnly` | Boolean | Set to true to disable interaction |
 
 ---

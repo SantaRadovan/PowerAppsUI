@@ -21,12 +21,14 @@ A simple and elegant component that allows users to select both date and time, w
 - 🔁 Two-way binding (input + read-only)
 - 📱 Mobile and desktop responsive
 
-[👉 View Component README](/DateTimePicker)
+[👉 View Component](/DateTimePicker)
 
 ---
 
 ### 🧭 Collapsible Navbar
 A sleek and modern navigation menu for your apps that supports collapsible behavior, custom items, and color theming.
+
+![CollapsibleNavbar](https://github.com/user-attachments/assets/a84f5eb1-e876-492f-aa22-438d473bb6d0)
 
 **Key Features:**
 - 📂 Collapsible menu with smooth transitions
@@ -34,7 +36,7 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 - 🖼️ Supports screen navigation
 - 📱 Fully responsive
 
-[👉 View Component README](/CollapsibleNavbar)
+[👉 View Component](/CollapsibleNavbar)
 
 ---
 

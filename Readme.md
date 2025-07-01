@@ -16,9 +16,10 @@ A simple and elegant component that allows users to select both date and time, w
 ![DateTimePicker](https://github.com/user-attachments/assets/f8de758d-3479-430b-858d-61ca144494c0)
 
 **Key Features:**
-- 🕒 12 or 24-hour format
-- 🎨 Fully customizable colors
-- 🔁 Two-way binding (input + read-only)
+- 🕒 12 or 24 hours format
+- 🎨 Fully customizable (color)
+- 🔁 Two-way binding (user input + read-only modes)
+- ⚡ Lightweight and easy to integrate
 - 📱 Mobile and desktop responsive
 
 [👉 View Component](/DateTimePicker)
@@ -31,12 +32,29 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 ![CollapsibleNavbar](https://github.com/user-attachments/assets/a84f5eb1-e876-492f-aa22-438d473bb6d0)
 
 **Key Features:**
-- 📂 Collapsible menu with smooth transitions
-- 🧱 Customizable structure and appearance
-- 🖼️ Supports screen navigation
-- 📱 Fully responsive
+- 📂 Collapsible navigation menu
+- 🎨 Fully customizable (color, transitions, navbar items)
+- ⚡ Lightweight and easy to integrate
+- 📱 Mobile and desktop responsive
 
 [👉 View Component](/CollapsibleNavbar)
+
+---
+
+### ⭐ Rating Component
+Easily add star-based rating functionality to your apps.
+
+![RatingComponent](https://github.com/user-attachments/assets/73abaf99-4685-4e0c-9b42-3e6133fb3e71)
+
+
+**Key Features:**
+- ⭐ Star-based rating (1 to 5 or custom range)
+- 🎨 Fully customizable (star color, max stars)
+- 🔄 Two-way binding (user input + read-only modes)
+- 🔧 Lightweight and easy to integrate
+- 📱 Mobile and desktop responsive
+
+[👉 View Component](/RatingComponent)
 
 ---
 
@@ -47,7 +65,7 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 
 2. **Import to Power Apps**  
    - Open your Canvas App  
-   - Go to **Insert** > **Get more components** > **Import component**  
+   - Go to **Tree view** > **Components** > **Import components**  
    - Upload the `.msapp` file
 
 3. **Add to Screen**  

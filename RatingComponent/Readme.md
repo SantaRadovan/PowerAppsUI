@@ -20,7 +20,7 @@ A simple, reusable, and customizable **Rating Component** built for Power Apps C
 
 ## 📸 Demo
 
-![image 142](https://github.com/user-attachments/assets/3d8580ff-349c-457b-ae73-e7f5886d95da)
+![RatingComponent](https://github.com/user-attachments/assets/4c06c34c-c70b-4bbe-a944-5594eed059fe)
 
 ---
 
@@ -39,7 +39,6 @@ Download the latest `.msapp` file from the [Releases](https://github.com/youruse
 ### 3. Add to Screen
 
 - Drag and drop the component onto your screen.
-- Bind to your desired variable or collection.
 
 ---
 
@@ -52,13 +51,3 @@ Download the latest `.msapp` file from the [Releases](https://github.com/youruse
 | `StarColor` | Color | Color of the filled stars |
 | `IsReadOnly` | Boolean | Set to true to disable interaction |
 
----
-
-## 🧩 Example Usage
-
-```powerapps
-// Set a default rating
-Set(varRating, 3);
-
-// Bind to component
-RatingComponent.RatingValue = varRating

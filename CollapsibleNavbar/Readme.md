@@ -32,7 +32,7 @@ Download the latest `.msapp` file.
 ### 2. Import to Power Apps
 
 1. Open your Power Apps Canvas App.
-2. Go to **Insert** > **Get more components** > **Import component**.
+2. Go to **Tree view** > **Components** > **Import components**.
 3. Upload the `.msapp` file.
 
 ### 3. Add to Screen

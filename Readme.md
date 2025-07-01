@@ -56,7 +56,7 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 
 ## 📄 License
 
-This project is licensed under the [MIT License](../../LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
 
 ---
 

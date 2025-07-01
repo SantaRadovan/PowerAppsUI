@@ -13,6 +13,8 @@ A growing collection of **reusable**, **customizable**, and **responsive UI comp
 ### 📅 Date Time Picker
 A simple and elegant component that allows users to select both date and time, with support for 12/24-hour format and full color customization.
 
+![DateTimePicker](https://github.com/user-attachments/assets/f8de758d-3479-430b-858d-61ca144494c0)
+
 **Key Features:**
 - 🕒 12 or 24-hour format
 - 🎨 Fully customizable colors

@@ -2,7 +2,6 @@
 
 ![Power Apps](https://img.shields.io/badge/built%20with-Power%20Apps-purple?style=flat-square)
 ![Version](https://img.shields.io/badge/status-Active-blue?style=flat-square)
-[![License](https://img.shields.io/github/license/SantaRadovan/PowerAppsUI?style=flat-square)](../../LICENSE)
 
 A growing collection of **reusable**, **customizable**, and **responsive UI components** for Power Apps Canvas Apps. These components help you speed up development, enhance user experience, and bring modern UI patterns into your apps—without sacrificing performance or flexibility.
 

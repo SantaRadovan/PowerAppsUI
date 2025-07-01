@@ -19,7 +19,7 @@ A simple, reusable, and customizable **Rating Component** built for Power Apps C
 
 ## 📸 Demo
 
-![RatingComponent](https://github.com/user-attachments/assets/4c06c34c-c70b-4bbe-a944-5594eed059fe)
+![Rating](https://github.com/user-attachments/assets/a385468a-2644-4c87-b095-0bafc6dec968)
 
 ---
 
@@ -45,7 +45,7 @@ Download the latest `.msapp` file from the [Releases](https://github.com/youruse
 
 | Property | Type | Description |
 |---------|------|-------------|
-| `RatingValue` | Number | The current rating (output or input) |
+| `Rating` | Number | The current rating (output or input) |
 | `MaxStars` | Number | Max number of stars (default: 5) |
 | `StarColor` | Color | Color of the filled stars |
 | `IsReadOnly` | Boolean | Set to true to disable interaction |

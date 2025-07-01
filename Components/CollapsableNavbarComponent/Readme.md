@@ -59,8 +59,37 @@ Download the latest `.msapp` file.
 Define your `NavbarItems` table like this:
 
 ```powerapps
-Table(
-    {Title: "Home", Screen: HomeScreen},
-    {Title: "Settings", Screen: SettingsScreen},
-    {Title: "Profile", Screen: ProfileScreen}
-)
+[
+    // First navbar item
+    {
+        sequence: 1, // Number of item, easily to reorder
+        name: "Example Tab 1", // Display name of the screen
+        icon: Icon.Printing3D, // Icon
+        screen: Screen1 // Specify the screen
+    },
+    // Second navbar item
+    {
+        sequence: 2,
+        name: "Example Tab 2",
+        icon: Icon.Draw,
+        screen: Screen2
+    },
+    {
+        sequence: 3,
+        name: "Example Tab 3",
+        icon: Icon.Money,
+        screen: Screen3
+    },
+    {
+        sequence: 4,
+        name: "Example Tab 4",
+        icon: Icon.AddUser,
+        screen: Screen4
+    },
+    {
+        sequence: 5,
+        name: "Example Tab 5",
+        icon: Icon.Cars,
+        screen: Screen5
+    }
+]

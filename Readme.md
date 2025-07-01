@@ -19,7 +19,7 @@ A simple and elegant component that allows users to select both date and time, w
 - 🔁 Two-way binding (input + read-only)
 - 📱 Mobile and desktop responsive
 
-[👉 View Component README](./DateTimePicker/README.md)
+[👉 View Component README](/DateTimePicker)
 
 ---
 
@@ -32,7 +32,7 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 - 🖼️ Supports screen navigation
 - 📱 Fully responsive
 
-[👉 View Component README](./CollapsibleNavbar/README.md)
+[👉 View Component README](/CollapsibleNavbar)
 
 ---
 

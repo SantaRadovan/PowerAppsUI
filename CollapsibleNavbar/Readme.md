@@ -2,7 +2,6 @@
 
 ![Power Apps](https://img.shields.io/badge/built%20with-Power%20Apps-purple?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-[![License](https://img.shields.io/github/license/SantaRadovan/PowerAppsUI?style=flat-square)](../../LICENSE)
 
 A simple, reusable, and customizable **Collapsible Navbar Component** built for Power Apps Canvas Apps. Easily navigate between screens using a modern collapsible navbar with full customization—define navbar items, set colors, and add transitions.
 

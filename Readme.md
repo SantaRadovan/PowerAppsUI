@@ -43,8 +43,7 @@ A sleek and modern navigation menu for your apps that supports collapsible behav
 ### ⭐ Rating Component
 Easily add star-based rating functionality to your apps.
 
-![RatingComponent](https://github.com/user-attachments/assets/73abaf99-4685-4e0c-9b42-3e6133fb3e71)
-
+![Rating](https://github.com/user-attachments/assets/11fa74b4-ffc3-41ae-b8bf-edc6ae822302)
 
 **Key Features:**
 - ⭐ Star-based rating (1 to 5 or custom range)

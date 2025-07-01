@@ -2,7 +2,6 @@
 
 ![Power Apps](https://img.shields.io/badge/built%20with-Power%20Apps-purple?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-[![License](https://img.shields.io/github/license/SantaRadovan/PowerAppsUI?style=flat-square)](../../LICENSE)
 
 A simple, reusable, and customizable **Date Time Picker** built for Power Apps Canvas Apps. Easily select date and time with customizable options such as 12 or 24 hours format or custom color.
 

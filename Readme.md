@@ -85,4 +85,3 @@ This project is licensed under the [MIT License](/LICENSE).
 
 Combine these components to build **modular, maintainable**, and **visually consistent** Power Apps with ease.
 
----

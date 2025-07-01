@@ -19,7 +19,7 @@ A simple, reusable, and customizable **Collapsible Navbar Component** built for 
 
 ## 🎥 Demo
 
-<!-- Add a screenshot or GIF here -->
+![CollapsibleNavbar](https://github.com/user-attachments/assets/6e9aa33f-13c2-420e-9c7a-2ce25f0b9ec8)
 
 ---
 

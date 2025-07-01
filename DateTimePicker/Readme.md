@@ -20,7 +20,7 @@ A simple, reusable, and customizable **Date Time Picker** built for Power Apps C
 
 ## 🎥 Demo
 
-<!-- Add a screenshot or GIF here -->
+![DateTimePicker](https://github.com/user-attachments/assets/30a5f645-8ccb-49a2-a88c-1600b08a6a9e)
 
 ---
 

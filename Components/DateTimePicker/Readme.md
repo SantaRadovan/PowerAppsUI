@@ -1,5 +1,4 @@
-
-# ⭐ Power Apps Date Time Picker
+# 📅 Power Apps Date Time Picker
 
 ![Power Apps](https://img.shields.io/badge/built%20with-Power%20Apps-purple?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
@@ -9,19 +8,19 @@ A simple, reusable, and customizable **Date Time Picker** built for Power Apps C
 
 ---
 
-## ✨ Features
+## 🌟 Features
 
-- ⭐ 12 or 24 hours format
+- 🕒 12 or 24 hours format
 - 🎨 Fully customizable (color)
-- 🔄 Two-way binding (user input + read-only modes)
-- 🔧 Lightweight and easy to integrate
+- 🔁 Two-way binding (user input + read-only modes)
+- ⚡ Lightweight and easy to integrate
 - 📱 Mobile and desktop responsive
 
 ---
 
-## 📸 Demo
+## 🎥 Demo
 
-
+<!-- Add a screenshot or GIF here -->
 
 ---
 
@@ -47,7 +46,7 @@ Download the latest `.msapp` file.
 
 | Property | Type | Description |
 |---------|------|-------------|
-| `TwelveHoursFormat` | Boolean | If selected it use 12-hours format (AM/PM) |
+| `TwelveHoursFormat` | Boolean | If selected, it uses 12-hour format (AM/PM) |
 | `Color` | Color | Color of the component |
 | `IsReadOnly` | Boolean | Set to true to disable interaction |
 
